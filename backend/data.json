@@ -1,0 +1,197 @@
+[
+  {
+    "website": "extensions",
+    "duration": 11,
+    "category": "neutral"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 3,
+    "category": "neutral"
+  },
+  {
+    "website": "github.com",
+    "duration": 17,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 9,
+    "category": "neutral"
+  },
+  {
+    "website": "www.flaticon.com",
+    "duration": 8,
+    "category": "neutral"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 21,
+    "category": "neutral"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 0,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 4,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 9,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 13,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 17,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 22,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 26,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 31,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 36,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 40,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 44,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 0,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 0,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 4,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 9,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 14,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 19,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 23,
+    "category": "productive"
+  },
+  {
+    "website": "github.com",
+    "duration": 28,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 48,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 53,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 57,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 62,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 66,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 71,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 75,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 80,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 84,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 89,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 93,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 98,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 103,
+    "category": "productive"
+  },
+  {
+    "website": "chatgpt.com",
+    "duration": 107,
+    "category": "productive"
+  }
+]
